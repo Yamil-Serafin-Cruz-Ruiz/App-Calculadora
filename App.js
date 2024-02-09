@@ -25,6 +25,7 @@ const Calculator = ({ input, resultado, handleButtonPress }) => {
 
 const styles = StyleSheet.create({
   container: {
+    backgroundColor: '#66456d79',
     flex: 1,
     justifyContent: 'flex-end',
   },
